@@ -78,3 +78,8 @@ You have the questions in the myQuestions variable from Step 2. Now you need to 
 
 Congrats!
 
+# Bonus: The fun part
+
+Now that you have the basic idea of how to make a JavaScript quiz, you can try styling the elements however you want.
+
+Feel free to change whatever you want!
