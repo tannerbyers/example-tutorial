@@ -83,3 +83,7 @@ Congrats!
 Now that you have the basic idea of how to make a JavaScript quiz, you can try styling the elements however you want.
 
 Feel free to change whatever you want!
+
+This was made to show the difference between a normal coding tutorial experience and the one I've created 
+
+## [Original Tutorial](https://simplestepscode.com/javascript-quiz-tutorial)
