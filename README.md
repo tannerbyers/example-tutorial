@@ -37,3 +37,16 @@ And if you put those things in, the function should spit out a fully-formed quiz
 
 **If you look closely at the JavaScript structure, you'll see that our generateQuiz function contains helper functions to show the quiz, accept submissions, and show the results.**
 
+## Step 2: Show the questions
+
+First we'll need the questions.
+
+Next we'll need a way to show our questions.
+
+For this, we'll fill out our showQuestions function.
+
+### The general idea:
+For each question, show the question along with all of its answer choices. Read through the comments in this code to see how it works.
+
+The nice part about our code is that it works for any number of questions or answer choices you might have in your JavaScript quiz.
+
