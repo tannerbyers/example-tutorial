@@ -18,3 +18,22 @@ We'll also avoid animations, excessive styles, and anything else that will distr
 
 This tutorial assumes a basic understanding of JavaScript. If you're not there yet, I've put together [a JavaScript road map to get you comfortable with practical concepts quickly.](https://simplestepscode.com/learn-javascript/)
 
+## Step 1: Set up the structure
+
+First, we'll create divs to hold our quiz and our results.
+
+Then we'll put in a submit button.
+
+Next, we'll create a function to generate a quiz.
+
+Your function will need these inputs:
+
+* The quiz questions
+* A place to put the quiz
+* A place for the results
+* A submit button
+
+And if you put those things in, the function should spit out a fully-formed quiz.
+
+**If you look closely at the JavaScript structure, you'll see that our generateQuiz function contains helper functions to show the quiz, accept submissions, and show the results.**
+
