@@ -70,3 +70,11 @@ The next step is to show quiz results when someone clicks the submit button.
 
     Note that the submitButton variable comes from our original generateQuiz function as one of the parameters.
 
+# Step 4: Put it all together
+
+Now that you have the pieces, you can generate your very own JavaScript quiz.
+
+You have the questions in the myQuestions variable from Step 2. Now you need to let your JavaScript know which HTML elements to use for the quiz, the results, and the submit button.
+
+Congrats!
+
