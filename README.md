@@ -50,3 +50,23 @@ For each question, show the question along with all of its answer choices. Read 
 
 The nice part about our code is that it works for any number of questions or answer choices you might have in your JavaScript quiz.
 
+# Step 3: On submit, show the results
+
+We'll need to fill out our showResults function to show the results of our quiz.
+
+Here's how our JavaScript logic will look:
+
+    For each question, find the selected answer
+    If the answer is correct, respond accordingly
+    If the answer is wrong, respond accordingly
+    Show the number of correct answers out of the total
+
+In the line that says "//find selected answer", we did a little trick. We used the || operator, which means "or" to basically say "Give us the selected answer OR if there's not one, then just give us an empty object." That way, trying to get the .value will give us undefined instead of causing an error.
+
+That way, the quiz won't break if someone skips a question.
+Show quiz results on submit
+
+The next step is to show quiz results when someone clicks the submit button.
+
+    Note that the submitButton variable comes from our original generateQuiz function as one of the parameters.
+
